@@ -1,4 +1,5 @@
 # Cariri Cultural
+## Uma plataforma pensada para conectar pessoas à identidade cultural do Cariri
 
 Plataforma em desenvolvimento para centralizar informações turísticas, gastronômicas e culturais da região do Cariri através de uma aplicação web/mobile integrada a um assistente conversacional.
 
